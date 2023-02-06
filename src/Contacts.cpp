@@ -22,7 +22,7 @@ int main(){
     string *company = new string[arr_size];
     string *birthday = new string[arr_size];
     cout << "Hi!" << endl;
-    cout << "Select or create new system" << endl;
+    cout << "Select or create a new system" << endl;
     cout << "Use these commands: " << endl;
     cout << "Create a new system - create" << endl;
     cout << "Open - open" << endl;
